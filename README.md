@@ -1,3 +1,6 @@
+# Forked this one to be sure to have a working copy of it.
+(All creds to: https://github.com/dzomaya/NUTandRpi )
+
 # How to monitor your UPS with free software + a Raspberry Pi
 
 I'm going to guess you're here because you want to set up basic UPS monitoring on a Raspberry Pi or similar Linux system.
